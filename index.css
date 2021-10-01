@@ -1,0 +1,66 @@
+.texto-rojo{
+    color:red;
+    text-align: center;
+    background-color:black;
+}
+#saludo{
+    color:blue;
+    text-align: center;
+    background-color: orange;
+}
+.noticia{font-size: 50px}
+h2.titulo{color:cornflowerblue}
+h2.tallarin{color:cyan}
+h2.carpincho
+{
+    color:darkblue;
+    background-color: yellow;
+}
+ul #lista li{text-align: center}
+h2  {
+    font-size: 50px;
+    text-align: center;
+    }
+p {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style:italic;
+    text-decoration:underline;
+    text-align:center;
+}
+#fondo{background-color:tomato}
+body{
+    background-image: url(img/flanders.jpg);
+    background-size: auto;
+    background-repeat: initial;
+    background-position: center;
+    background-attachment: scroll;
+}
+button{
+    border-radius: none;
+    text-align: center
+    ;
+}
+h4{
+    color: black;
+    text-align: center;
+    font-size: 10rem;
+}
+#cuca{
+    background-image: url(img/A\ la\ grande\ le\ puse\ cuca.jpg);
+    color: white;
+}
+#flanders{  
+    background-image: url(img/flaaaaanders.jpg);
+}
+#pilio{
+    background-image: url(/img/pillo\ pillo.jpg);
+    color: red
+}
+#hecho-pecho{
+    background-image: url(img/A\ lo\ hecho\ pecho.jpg);
+}
+#pechugas-laru{
+    background-image: url(img/Pechugas\ laru.jpg);
+}
